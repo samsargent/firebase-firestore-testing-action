@@ -1,4 +1,4 @@
-name: 'Jest testing (including firestore rules)'
+name: 'firebase emulators:exec --only firestore jest'
 author: 'Bhekani Khumalo <bhekani@gmail.com>'
 description: 'Run jest to test code, this includes the firebase firestore emulator to make it possible to also test firestore rules.'
 branding:
